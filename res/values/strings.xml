@@ -1,0 +1,7 @@
+<resources>
+
+   <string name="app_name" translatable="false">XposedMTCJetAudio</string>
+   <string name="app_version_name" translatable="false">1.0</string>
+   <string name="app_description">show tags on MTC ScreenSaver</string>
+
+</resources>
